@@ -25,7 +25,7 @@
                         <div class="row u-PaddingTop30 u-PaddingLeft30 u-PaddingRight30">
                             <div class="col-md-12">
                                 <form>
-                                    <h3 class="text-white u-MarginTop0">Form Pendaftaran Talkshow</h3>
+                                    <h3 class="text-white u-MarginTop0">Form Pendaftaran Perlombaan</h3>
                                     <div class="form-group">
                                         <input class="form-control form-control--white" placeholder="Name" type="text">
                                     </div>
@@ -65,7 +65,7 @@
                         <div class="row u-PaddingTop30 u-PaddingLeft30 u-PaddingRight30">
                             <div class="col-md-12">
                                 <form>
-                                    <h3 class="text-white u-MarginTop0">Form Pendaftaran Perlombaan</h3>
+                                    <h3 class="text-white u-MarginTop0">Form Pendaftaran Talkshow</h3>
                                     <div class="form-group">
                                         <input class="form-control form-control--white" placeholder="Name" type="text">
                                     </div>
