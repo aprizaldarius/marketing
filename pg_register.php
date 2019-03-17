@@ -1,9 +1,4 @@
-<?php
-    include "konek.php";
-?>
 <!--speakers start-->
-
-<form id="login_form" method="post" action="act_daftar.php">
 
 <section class="u-PaddingTop100 u-PaddingBottom100 u-xs-PaddingBottom30 u-xs-PaddingTop30 u-MarginBottom0 u-zIndex10 position-relative">
         <div class="container">
@@ -30,7 +25,7 @@
                             <div class="bg-black-transparent u-BorderRadius4 u-BoxShadow40 u-Padding10">
                         <div class="row u-PaddingTop30 u-PaddingLeft30 u-PaddingRight30">
                             <div class="col-md-12">
-                                <form>
+                                <form method="post" action="act_daftar.php">
                                     <h3 class="text-white u-MarginTop0">Form Pendaftaran Perlombaan</h3>
                                     <div class="form-group">
                                         <input class="form-control form-control--white" name="nama" placeholder="Nama" type="text" required>
@@ -70,7 +65,7 @@
                             <div class="bg-black-transparent u-BorderRadius4 u-BoxShadow40 u-Padding10">
                         <div class="row u-PaddingTop30 u-PaddingLeft30 u-PaddingRight30">
                             <div class="col-md-12">
-                                <form>
+                            <form method="post" action="act_daftar2.php">
                                     <h3 class="text-white u-MarginTop0">Form Pendaftaran Talkshow</h3>
                                     <div class="form-group">
                                         <input class="form-control form-control--white" name="nama" placeholder="Nama" type="text" required>

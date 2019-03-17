@@ -6,7 +6,7 @@ $database = "ppikublc_db_cite";
 
 $konek = mysqli_connect($host,$user,$pass,$database);
 if($konek){
-    echo "Konek";
+    //echo "Konek";
 }else{
     echo "gagal";
 }
